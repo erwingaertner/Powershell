@@ -1,3 +1,3 @@
-# My GitHub Project.
+# Powershell
 
-This is my Github Project i created from Visual Studio Code
+My Powershell playground
